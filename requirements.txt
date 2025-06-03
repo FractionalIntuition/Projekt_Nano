@@ -1,0 +1,9 @@
+torch
+torchaudio
+python_speech_features
+librosa
+matplotlib
+pandas
+scipy
+numpy
+seaborn
